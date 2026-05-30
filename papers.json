@@ -1,0 +1,775 @@
+[
+  {
+    "title": "Canonical extensions of $p$-adic shtukas on toroidal compactifications of Shimura varieties",
+    "authors": [
+      "Shengkai Mao",
+      "Peihang Wu"
+    ],
+    "year": 2026,
+    "published": "2026-05-28",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.30086v1",
+    "url": "http://arxiv.org/abs/2605.30086v1"
+  },
+  {
+    "title": "Lift-independence problem in the $P$-adic Simpson correspondence for curves",
+    "authors": [
+      "Xiangyu Pan",
+      "Jiahong Yu"
+    ],
+    "year": 2026,
+    "published": "2026-05-28",
+    "primary_category": "math.AG",
+    "categories": [
+      "math.AG",
+      "math.NT"
+    ],
+    "arxiv_id": "2605.29947v1",
+    "url": "http://arxiv.org/abs/2605.29947v1"
+  },
+  {
+    "title": "The sum-product conjecture is false for real numbers",
+    "authors": [
+      "Thomas F Bloom",
+      "Will Sawin",
+      "Carl Schildkraut",
+      "Dmitrii Zhelezov"
+    ],
+    "year": 2026,
+    "published": "2026-05-27",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.CO"
+    ],
+    "arxiv_id": "2605.28781v1",
+    "url": "http://arxiv.org/abs/2605.28781v1"
+  },
+  {
+    "title": "Lubin-Tate representations over nontrivial finite Galois extensions of $\\mathbb{Q}_{p}$ are not Aut-intrinsically Hodge-Tate",
+    "authors": [
+      "Kaiji Kondo"
+    ],
+    "year": 2026,
+    "published": "2026-05-25",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2605.25428v1",
+    "url": "http://arxiv.org/abs/2605.25428v1"
+  },
+  {
+    "title": "Eigenvalue Distribution of $p$-adic Random Matrices Among Algebraic Extensions, with an Analogue for $p$-adic Random Polynomials",
+    "authors": [
+      "Jiahe Shen"
+    ],
+    "year": 2026,
+    "published": "2026-05-19",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.PR"
+    ],
+    "arxiv_id": "2605.20444v1",
+    "url": "http://arxiv.org/abs/2605.20444v1"
+  },
+  {
+    "title": "On optimal $p$-adic uniformization of unitary Shimura curves",
+    "authors": [
+      "Michael Rapoport",
+      "Haining Wang"
+    ],
+    "year": 2026,
+    "published": "2026-05-19",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.19443v1",
+    "url": "http://arxiv.org/abs/2605.19443v1"
+  },
+  {
+    "title": "Boundary Value Problems on $p$-Adic Analytic Manifolds",
+    "authors": [
+      "Patrick Erik Bradley"
+    ],
+    "year": 2026,
+    "published": "2026-05-15",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AP"
+    ],
+    "arxiv_id": "2605.16590v1",
+    "url": "http://arxiv.org/abs/2605.16590v1"
+  },
+  {
+    "title": "On Drinfeld's representability theorem",
+    "authors": [
+      "Arnaud Vanhaecke"
+    ],
+    "year": 2026,
+    "published": "2026-05-15",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.16092v1",
+    "url": "http://arxiv.org/abs/2605.16092v1"
+  },
+  {
+    "title": "Duality of analytic Hopf algebras and the Amice transform",
+    "authors": [
+      "Luca Collauto"
+    ],
+    "year": 2026,
+    "published": "2026-05-15",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG",
+      "math.FA"
+    ],
+    "arxiv_id": "2605.16063v1",
+    "url": "http://arxiv.org/abs/2605.16063v1"
+  },
+  {
+    "title": "Explicitly combing hedgehogs over fields of Stufe 4",
+    "authors": [
+      "Peter Müller"
+    ],
+    "year": 2026,
+    "published": "2026-05-14",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.15452v1",
+    "url": "http://arxiv.org/abs/2605.15452v1"
+  },
+  {
+    "title": "$p$-adic Congruencens of Generalized Euler Numbers and Relations to Even Zeta Value",
+    "authors": [
+      "Yuta Nishibuchi"
+    ],
+    "year": 2026,
+    "published": "2026-05-11",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2605.10677v1",
+    "url": "http://arxiv.org/abs/2605.10677v1"
+  },
+  {
+    "title": "Weighted Distributions of Complex Multiplication Orders in Ordinary Isogeny Classes",
+    "authors": [
+      "Mohammed el baraka ans Siham ezzouak"
+    ],
+    "year": 2026,
+    "published": "2026-05-08",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2605.07626v1",
+    "url": "http://arxiv.org/abs/2605.07626v1"
+  },
+  {
+    "title": "$\\mathbb{G}_m$-cohomology of $p$-adic Stein spaces",
+    "authors": [
+      "Sally Gilles",
+      "Damien Junger"
+    ],
+    "year": 2026,
+    "published": "2026-05-06",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.04696v1",
+    "url": "http://arxiv.org/abs/2605.04696v1"
+  },
+  {
+    "title": "Fixed-point lifting and ghost periodic points for Chebyshev polynomials modulo odd prime powers",
+    "authors": [
+      "Chatchawan Panraksa",
+      "Aram Tangboonduangjit"
+    ],
+    "year": 2026,
+    "published": "2026-05-06",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.DS"
+    ],
+    "arxiv_id": "2605.04417v1",
+    "url": "http://arxiv.org/abs/2605.04417v1"
+  },
+  {
+    "title": "$p$-adic Manifold Learning and Benchmark Tasks from Impartial Games",
+    "authors": [
+      "Tomoki Mihara"
+    ],
+    "year": 2026,
+    "published": "2026-05-06",
+    "primary_category": "cs.LG",
+    "categories": [
+      "cs.LG",
+      "math.NT"
+    ],
+    "arxiv_id": "2605.04374v1",
+    "url": "http://arxiv.org/abs/2605.04374v1"
+  },
+  {
+    "title": "Infinitesimal characters for the completed cohomology of $\\mathrm{GL}_n$ over CM fields",
+    "authors": [
+      "Jelena Ivančić",
+      "Vaughan McDonald"
+    ],
+    "year": 2026,
+    "published": "2026-05-05",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2605.03519v1",
+    "url": "http://arxiv.org/abs/2605.03519v1"
+  },
+  {
+    "title": "Twisting Higgs Modules and Functorial Aspects of the p-adic Simpson Correspondence",
+    "authors": [
+      "Ahmed Abbes",
+      "Michel Gros",
+      "Takeshi Tsuji"
+    ],
+    "year": 2026,
+    "published": "2026-05-04",
+    "primary_category": "math.AG",
+    "categories": [
+      "math.AG",
+      "math.NT"
+    ],
+    "arxiv_id": "2605.02664v1",
+    "url": "http://arxiv.org/abs/2605.02664v1"
+  },
+  {
+    "title": "Reductions of $\\mathrm{GL}_2(\\mathbb Q_{p^f})$-Banach spaces of slopes in $(0,1)$",
+    "authors": [
+      "Eknath Ghate",
+      "Shivansh Pandey"
+    ],
+    "year": 2026,
+    "published": "2026-05-04",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2605.02654v1",
+    "url": "http://arxiv.org/abs/2605.02654v1"
+  },
+  {
+    "title": "Bowen--Franks groups and minus class groups of cyclotomic number fields with prime conductor",
+    "authors": [
+      "Antonio Lei",
+      "Katharina Müller",
+      "Daniel Vallières"
+    ],
+    "year": 2026,
+    "published": "2026-05-02",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.CO"
+    ],
+    "arxiv_id": "2605.01398v1",
+    "url": "http://arxiv.org/abs/2605.01398v1"
+  },
+  {
+    "title": "Delta characters and crystalline cohomology of abelian schemes",
+    "authors": [
+      "Sudip Pandit"
+    ],
+    "year": 2026,
+    "published": "2026-05-01",
+    "primary_category": "math.AG",
+    "categories": [
+      "math.AG",
+      "math.AC",
+      "math.NT"
+    ],
+    "arxiv_id": "2605.00713v1",
+    "url": "http://arxiv.org/abs/2605.00713v1"
+  },
+  {
+    "title": "An $O_K$-basis for the image of a Lubin-Tate logarithm on $π$-regular extensions of $K$",
+    "authors": [
+      "Georgia Harbor-Collins"
+    ],
+    "year": 2026,
+    "published": "2026-04-29",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.27111v1",
+    "url": "http://arxiv.org/abs/2604.27111v1"
+  },
+  {
+    "title": "Elementary anabelian varieties are anabelian",
+    "authors": [
+      "Magnus Carlson"
+    ],
+    "year": 2026,
+    "published": "2026-04-27",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.24898v1",
+    "url": "http://arxiv.org/abs/2604.24898v1"
+  },
+  {
+    "title": "Galois representations over convergent de Rham period ring",
+    "authors": [
+      "Hui Gao",
+      "Yupeng Wang"
+    ],
+    "year": 2026,
+    "published": "2026-04-23",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.21605v2",
+    "url": "http://arxiv.org/abs/2604.21605v2"
+  },
+  {
+    "title": "p-adic elliptic polylogarithms and cubic Chabauty",
+    "authors": [
+      "Jennifer S. Balakrishnan",
+      "Francesca Bianchi",
+      "Netan Dogra"
+    ],
+    "year": 2026,
+    "published": "2026-04-22",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.20662v1",
+    "url": "http://arxiv.org/abs/2604.20662v1"
+  },
+  {
+    "title": "Non-vanishing of the $p$-adic constant for mock modular forms associated to a newform with real Fourier coefficients",
+    "authors": [
+      "Ryota Tajima"
+    ],
+    "year": 2026,
+    "published": "2026-04-22",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.20520v1",
+    "url": "http://arxiv.org/abs/2604.20520v1"
+  },
+  {
+    "title": "Non-liftability of Families of Abelian Varieties with Small $l$-adic Local System",
+    "authors": [
+      "Haochen Cheng"
+    ],
+    "year": 2026,
+    "published": "2026-04-18",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.17059v1",
+    "url": "http://arxiv.org/abs/2604.17059v1"
+  },
+  {
+    "title": "Reduction mod $p$ of semi-stable representations of some super-Breuil weights",
+    "authors": [
+      "Anand Chitrao",
+      "Eknath Ghate"
+    ],
+    "year": 2026,
+    "published": "2026-04-18",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.16867v1",
+    "url": "http://arxiv.org/abs/2604.16867v1"
+  },
+  {
+    "title": "Implementing p-adic numbers in Macaulay2 using its foreign function interface and FLINT",
+    "authors": [
+      "Douglas A. Torrance"
+    ],
+    "year": 2026,
+    "published": "2026-04-18",
+    "primary_category": "math.AG",
+    "categories": [
+      "math.AG",
+      "math.NT"
+    ],
+    "arxiv_id": "2604.16799v1",
+    "url": "http://arxiv.org/abs/2604.16799v1"
+  },
+  {
+    "title": "Rational analytic syntomic cohomology",
+    "authors": [
+      "Maximilian Hauck"
+    ],
+    "year": 2026,
+    "published": "2026-04-16",
+    "primary_category": "math.AG",
+    "categories": [
+      "math.AG",
+      "math.NT"
+    ],
+    "arxiv_id": "2604.15193v1",
+    "url": "http://arxiv.org/abs/2604.15193v1"
+  },
+  {
+    "title": "On local integrability results for $p$-adic reductive groups",
+    "authors": [
+      "Cheng-Chiang Tsai"
+    ],
+    "year": 2026,
+    "published": "2026-04-16",
+    "primary_category": "math.RT",
+    "categories": [
+      "math.RT",
+      "math.NT"
+    ],
+    "arxiv_id": "2604.15079v1",
+    "url": "http://arxiv.org/abs/2604.15079v1"
+  },
+  {
+    "title": "A proof of $p$-adic Gross--Zagier theorem via BDP formula",
+    "authors": [
+      "Kâzım Büyükboduk",
+      "Peter Neamti"
+    ],
+    "year": 2026,
+    "published": "2026-04-15",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.13854v1",
+    "url": "http://arxiv.org/abs/2604.13854v1"
+  },
+  {
+    "title": "$p$-adic Linear Regression for Random Sampling with Digitwise Noise",
+    "authors": [
+      "Tomoki Mihara"
+    ],
+    "year": 2026,
+    "published": "2026-04-14",
+    "primary_category": "stat.CO",
+    "categories": [
+      "stat.CO",
+      "math.NT",
+      "math.ST"
+    ],
+    "arxiv_id": "2604.13137v2",
+    "url": "http://arxiv.org/abs/2604.13137v2"
+  },
+  {
+    "title": "The $p$-adic monodromy theorem over algebraic-affinoid algebras",
+    "authors": [
+      "Yutaro Mikami"
+    ],
+    "year": 2026,
+    "published": "2026-04-14",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.12280v1",
+    "url": "http://arxiv.org/abs/2604.12280v1"
+  },
+  {
+    "title": "A Fixed-Prime Criterion for Reciprocals in Missing-Digit Sets",
+    "authors": [
+      "Scott Duke Kominers"
+    ],
+    "year": 2026,
+    "published": "2026-04-13",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.11282v1",
+    "url": "http://arxiv.org/abs/2604.11282v1"
+  },
+  {
+    "title": "A note on small theta lift",
+    "authors": [
+      "Jingsong Chai"
+    ],
+    "year": 2026,
+    "published": "2026-04-12",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.RT"
+    ],
+    "arxiv_id": "2604.10421v1",
+    "url": "http://arxiv.org/abs/2604.10421v1"
+  },
+  {
+    "title": "$p$-adic Theory for Partial Toric Exponential Sums",
+    "authors": [
+      "C. Douglas Haessig"
+    ],
+    "year": 2026,
+    "published": "2026-04-08",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.07330v1",
+    "url": "http://arxiv.org/abs/2604.07330v1"
+  },
+  {
+    "title": "Reduced Unitary Whitehead Groups over Function Fields of p-adic Curves",
+    "authors": [
+      "Zitong Pei"
+    ],
+    "year": 2026,
+    "published": "2026-04-08",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.KT",
+      "math.RA"
+    ],
+    "arxiv_id": "2604.06617v1",
+    "url": "http://arxiv.org/abs/2604.06617v1"
+  },
+  {
+    "title": "p-adic Hodge theory of de Rham local systems, I: Newton polygon and monodromy",
+    "authors": [
+      "Heng Du"
+    ],
+    "year": 2026,
+    "published": "2026-04-03",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.03220v1",
+    "url": "http://arxiv.org/abs/2604.03220v1"
+  },
+  {
+    "title": "Functoriality and the theta correspondence",
+    "authors": [
+      "Alexander Hazeltine"
+    ],
+    "year": 2026,
+    "published": "2026-04-03",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.RT"
+    ],
+    "arxiv_id": "2604.03095v1",
+    "url": "http://arxiv.org/abs/2604.03095v1"
+  },
+  {
+    "title": "Cuspidal $\\ell$-modular representations of ${\\rm GL}_n(F)$ distinguished by a Galois involution, II",
+    "authors": [
+      "Robert Kurinczuk",
+      "Nadir Matringe",
+      "Vincent Sécherre"
+    ],
+    "year": 2026,
+    "published": "2026-04-02",
+    "primary_category": "math.RT",
+    "categories": [
+      "math.RT",
+      "math.NT"
+    ],
+    "arxiv_id": "2604.01931v1",
+    "url": "http://arxiv.org/abs/2604.01931v1"
+  },
+  {
+    "title": "Towards the $p$-adic Hodge parameters in semistable representations of $\\mathrm{GL}_n(\\mathrm{Q}_p)$",
+    "authors": [
+      "Yiqin He"
+    ],
+    "year": 2026,
+    "published": "2026-04-02",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.01846v1",
+    "url": "http://arxiv.org/abs/2604.01846v1"
+  },
+  {
+    "title": "On algebraic independence of three p-adic continued fractions",
+    "authors": [
+      "Sarra Ahallal",
+      "Mohamed Begare",
+      "Ali Kacha"
+    ],
+    "year": 2026,
+    "published": "2026-04-01",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2604.01464v1",
+    "url": "http://arxiv.org/abs/2604.01464v1"
+  },
+  {
+    "title": "Solutions of Calabi-Yau Differential Operators as Truncated p-adic Series and Efficient Computation of Zeta Functions",
+    "authors": [
+      "Pyry Kuusela",
+      "Michael Lathwood",
+      "Miroslava Mosso Rojas",
+      "Michael Stepniczka"
+    ],
+    "year": 2026,
+    "published": "2026-04-01",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "hep-th",
+      "math.AG"
+    ],
+    "arxiv_id": "2604.01191v1",
+    "url": "http://arxiv.org/abs/2604.01191v1"
+  },
+  {
+    "title": "One-loop $p$-adic string theory and the Néron local height function",
+    "authors": [
+      "An Huang",
+      "Christian Jepsen"
+    ],
+    "year": 2026,
+    "published": "2026-04-01",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "hep-th"
+    ],
+    "arxiv_id": "2604.00970v1",
+    "url": "http://arxiv.org/abs/2604.00970v1"
+  },
+  {
+    "title": "$p$-adic Character Neural Network",
+    "authors": [
+      "Tomoki Mihara"
+    ],
+    "year": 2026,
+    "published": "2026-03-31",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "cs.LG"
+    ],
+    "arxiv_id": "2603.29905v1",
+    "url": "http://arxiv.org/abs/2603.29905v1"
+  },
+  {
+    "title": "Reciprocity of Skew Hall-Littlewood-Schubert Series",
+    "authors": [
+      "Ron M. Adin",
+      "Tomer Bauer"
+    ],
+    "year": 2026,
+    "published": "2026-03-31",
+    "primary_category": "math.CO",
+    "categories": [
+      "math.CO",
+      "math.NT"
+    ],
+    "arxiv_id": "2603.29728v1",
+    "url": "http://arxiv.org/abs/2603.29728v1"
+  },
+  {
+    "title": "On non-Archimedean and motivic distributions defined by kernels",
+    "authors": [
+      "Téofil Adamski"
+    ],
+    "year": 2026,
+    "published": "2026-03-31",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2603.29417v1",
+    "url": "http://arxiv.org/abs/2603.29417v1"
+  },
+  {
+    "title": "Plectic Heegner classes",
+    "authors": [
+      "Michele Fornea"
+    ],
+    "year": 2026,
+    "published": "2026-03-30",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT"
+    ],
+    "arxiv_id": "2603.28327v2",
+    "url": "http://arxiv.org/abs/2603.28327v2"
+  },
+  {
+    "title": "A categorical p-adic Langlands correspondence for GL_2(Q_p)",
+    "authors": [
+      "Andrea Dotto",
+      "Matthew Emerton",
+      "Toby Gee"
+    ],
+    "year": 2026,
+    "published": "2026-03-27",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.RT"
+    ],
+    "arxiv_id": "2603.26887v1",
+    "url": "http://arxiv.org/abs/2603.26887v1"
+  },
+  {
+    "title": "Exactness property of Breuil-Kisin functors and Bloch-Kato Selmer groups",
+    "authors": [
+      "Pavel Čoupek",
+      "Evangelia Gazaki",
+      "Adriano Marmora"
+    ],
+    "year": 2026,
+    "published": "2026-03-27",
+    "primary_category": "math.NT",
+    "categories": [
+      "math.NT",
+      "math.AG"
+    ],
+    "arxiv_id": "2603.26035v1",
+    "url": "http://arxiv.org/abs/2603.26035v1"
+  }
+]
